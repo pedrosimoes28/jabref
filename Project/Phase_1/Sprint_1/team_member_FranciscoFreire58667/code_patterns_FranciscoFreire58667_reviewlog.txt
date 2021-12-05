@@ -1,3 +1,7 @@
 This Adapter pattern is properly recognized. Thumbs up.
 
 - Bruno Ramos 52886
+
+The third method, Template Method, seems to be thotoughly explained and correct.
+
+- Gonçalo Vicêncio 57944
