@@ -1,0 +1,3 @@
+I'm not sure "preferences" intervenes as an actor. In  "Export to MS Word",  I wonder if a connection with the GUI instead of the current with Preferences would be better. Despite my concerns, everything seems to be in order. Attention, something might have escaped my sight.
+
+ - Francisco Freire 58667
