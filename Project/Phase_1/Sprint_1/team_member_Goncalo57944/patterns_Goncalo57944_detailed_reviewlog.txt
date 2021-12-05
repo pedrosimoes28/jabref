@@ -1,0 +1,4 @@
+I'm examining the Template Method.
+After a thorough review, I conclude that everything seems to be in order.
+
+ - Francisco Freire 58667
