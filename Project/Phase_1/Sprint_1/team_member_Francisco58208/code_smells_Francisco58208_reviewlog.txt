@@ -1,3 +1,8 @@
 After a thorough review, I conclude that everything seems to be in order.  I am not sure if the last one is considered a "long method" because of its purpose, but I agree that it is enormous and could be divided.
 
 - Francisco Freire 58667
+
+
+Everything seems to be correctly identified, nothing to point out.
+
+- Bruno Ramos 52886
