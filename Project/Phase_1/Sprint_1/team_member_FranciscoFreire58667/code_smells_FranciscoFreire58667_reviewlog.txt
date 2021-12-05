@@ -2,3 +2,8 @@
 The third code smell, Templete Method, is very thoroughly explained and seems to be in order.
 
 - Gonçalo Vicêncio 57944
+
+
+The code smell regarding the long parameter list is well identified and I agree with your refactoring proposal.
+
+- Bruno Ramos 52886
