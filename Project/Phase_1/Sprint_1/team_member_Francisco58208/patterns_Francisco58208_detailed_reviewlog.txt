@@ -3,7 +3,7 @@ After a thorough review, I conclude that everything seems to be in order.
  - Francisco Freire 58667
 
 
-Regarding the Adapter Pattern, I'm not sure if it's description matches the example you proposed.
+Regarding the Adapter Pattern, I'm not sure if its description matches the example you proposed.
 Mostly because it does seem to interpret and adapt the meaning of the primitive for encoding purposes, but it does not act like a wrapper class, 
 converting primitives.
 
