@@ -1,3 +1,8 @@
 I'm not sure "preferences" intervenes as an actor. In  "Export to MS Word",  I wonder if a connection with the GUI instead of the current with Preferences would be better. Despite my concerns, everything seems to be in order. Attention, something might have escaped my sight.
 
  - Francisco Freire 58667
+ 
+Addind to the previous review, in "Export to MS Word", reference to a remote database is made, but such is not defined within the actors, suggesting a gap in the secondary actors used. I am unsure if the reference to the remote database is a must in this particular case, and therefore suggest another reviewing of the content.
+Aside from such, all else seems to be in order.
+
+- Gonçalo Vicêncio 57944
