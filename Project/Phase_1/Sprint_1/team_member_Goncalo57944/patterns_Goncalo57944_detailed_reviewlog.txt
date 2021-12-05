@@ -1,3 +1,7 @@
+After carefully examining the "Singleton" design pattern, I conclude it seems to be correct.
+
+ - Francisco Pires 58208
+
 I'm examining the Template Method.
 After a thorough review, I conclude that everything seems to be in order.
 
