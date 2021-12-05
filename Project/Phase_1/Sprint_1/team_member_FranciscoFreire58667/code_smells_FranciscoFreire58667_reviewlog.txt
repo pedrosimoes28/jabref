@@ -1,0 +1,4 @@
+
+The third code smell, Templete Method, is very thoroughly explained and seems to be in order.
+
+- Gonçalo Vicêncio 57944
