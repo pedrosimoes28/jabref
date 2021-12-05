@@ -1,0 +1,3 @@
+I'm not sure "preferences" intervenes as an actor. Also, the Model contains the data structures that store the bibliographic databases (that contains entries, etc...), which makes me question if the local database should be an actor per se. Despite my concerns, everything seems to be in order. Attention, something might have escaped my sight.
+
+ - Francisco Freire 58667
