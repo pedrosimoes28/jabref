@@ -1,0 +1,4 @@
+In the diagram, I believe logic should be connected to both "Manage Groups" and "Manage entries".
+All else seems to be in order.
+
+- Gonçalo Vicêncio 57944
