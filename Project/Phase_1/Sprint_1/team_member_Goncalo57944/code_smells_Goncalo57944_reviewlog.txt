@@ -5,3 +5,7 @@ After a thorough review, I conclude that everything seems to be in order.
 After carefully examining the "Long Method" code smell, I conclude it seems to be correct.
 
  - Francisco Pires 58208
+
+The Feature envy code smell is properly identified, no issues to note, the thought process behind it is well explained.
+
+ - Bruno Ramos 52886

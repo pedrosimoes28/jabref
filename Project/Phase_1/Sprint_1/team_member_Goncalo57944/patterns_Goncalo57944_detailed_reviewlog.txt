@@ -6,3 +6,7 @@ I'm examining the Template Method.
 After a thorough review, I conclude that everything seems to be in order.
 
  - Francisco Freire 58667
+
+ Maybe a better snippet of the code base to illustrate your point would be nice, but it's correctly identified.
+
+ -Bruno Ramos 52886
