@@ -6,3 +6,7 @@ After a thorough review, I conclude that everything seems to be in order.
 After carefully examining the "Facade" design pattern, I conclude it seems to be correct.
 
  - Francisco Pires 58208
+
+The first pattern, Factory Pattern, seems to be correctly identified.
+
+- Gonçalo Vicêncio 57944
