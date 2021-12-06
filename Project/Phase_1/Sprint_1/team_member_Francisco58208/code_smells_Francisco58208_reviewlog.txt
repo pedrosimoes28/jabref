@@ -6,3 +6,8 @@ After a thorough review, I conclude that everything seems to be in order.  I am 
 Everything seems to be correctly identified, nothing to point out.
 
 - Bruno Ramos 52886
+
+
+After analysing the first code smell, I believe that the snippet provided by my colleague is an approppriate example of a "Long parameter list" code smell. I also agree with the proposed refactoring suggestion.
+
+- Pedro Simões, Nº 58674
