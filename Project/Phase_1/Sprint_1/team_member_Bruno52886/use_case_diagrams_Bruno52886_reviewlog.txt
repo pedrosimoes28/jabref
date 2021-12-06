@@ -2,3 +2,7 @@ In the diagram, I believe logic should be connected to both "Manage Groups" and 
 All else seems to be in order.
 
 - Gonçalo Vicêncio 57944
+
+In general, everything seems to be in order with this use case diagram. I believe, however, that the "JabRef Logic" actor should be connected to the "Manage Groups" action.
+
+- Pedro Simões, Nº 58674
