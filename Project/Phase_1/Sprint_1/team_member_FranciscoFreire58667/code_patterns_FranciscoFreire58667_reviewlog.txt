@@ -5,3 +5,8 @@ This Adapter pattern is properly recognized. Thumbs up.
 The third method, Template Method, seems to be thotoughly explained and correct.
 
 - Gonçalo Vicêncio 57944
+
+
+After examining the first code snippet provided by my colleague, I conclude that it seems to be correctly associated with a "Singleton" pattern.
+
+- Pedro Simões, Nº 58674
