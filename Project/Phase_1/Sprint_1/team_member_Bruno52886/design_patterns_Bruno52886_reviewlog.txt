@@ -5,3 +5,8 @@ After carefully examining the "Singleton" design pattern, I conclude it seems to
 The second design pattern, Registry Pattern, seems to be correct.
 
 - Gonçalo Vicêncio 57944
+
+
+After examining the "Caching" pattern, I conclude it seems to be correct.
+
+- Pedro Simões, Nº 58674
