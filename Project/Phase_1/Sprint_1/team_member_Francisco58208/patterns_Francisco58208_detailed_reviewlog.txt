@@ -8,3 +8,8 @@ Mostly because it does seem to interpret and adapt the meaning of the primitive 
 converting primitives.
 
 - Bruno Ramos 52886
+
+
+Regarding the third design pattern (the "Factory Method" pattern), I conclude that the class pointed out by my colleague is a perfect example of such.
+
+- Pedro Simões, Nº 58674
