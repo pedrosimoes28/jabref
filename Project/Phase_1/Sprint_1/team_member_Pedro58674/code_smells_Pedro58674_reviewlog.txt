@@ -1,1 +1,3 @@
+The first code smell, Long Method, seems to be correctly identified and the refactoring suggestion accurate.
 
+- Gonçalo Vicêncio 57944
