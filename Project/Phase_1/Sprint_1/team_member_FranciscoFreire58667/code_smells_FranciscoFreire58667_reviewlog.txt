@@ -7,3 +7,8 @@ The third code smell, long method, is very thoroughly explained and the refactor
 The code smell regarding the long parameter list is well identified and I agree with your refactoring proposal.
 
 - Bruno Ramos 52886
+
+
+In regards to the first code snippet, I believe it isn't representative of the "Shotgun Surgery" code smell. It should instead be associated with a "Duplicated Code" code smell. 
+
+- Pedro Simões, Nº 58674
