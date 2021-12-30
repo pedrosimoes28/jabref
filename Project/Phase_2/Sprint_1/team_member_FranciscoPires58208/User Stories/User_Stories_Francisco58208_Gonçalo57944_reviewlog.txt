@@ -1,3 +1,7 @@
 After a thorough review, I conclude that everything seems to be in order. 
 
  - Francisco Freire 58667
+ 
+ After carefully analysing this document, I conclude that the user stories related to this functionality are well described.
+ 
+  - Pedro Simões 58674
